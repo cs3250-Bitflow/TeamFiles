@@ -16,3 +16,25 @@ Story:
     
 Acceptance Criteria:
 -Working user interface exists that is available to users.
+
+
+# User Story
+### Essential components
+- [ ] Stakeholder type is identified
+- [ ] Outcome is described
+- [ ] Rationale is explicit
+- [ ] Acceptance criteria are verifiable and from the perspective of the stakeholder
+
+## Story
+As a user
+I want an interface
+so that I can use this product.
+
+## Acceptance Criteria
+
+* Working user interface exists
+* User interface is available to users
+
+## Dependencies
+
+* 
