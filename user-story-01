@@ -1,1 +1,17 @@
-Indicate tool functionality and actual tool name in user interface.
+User Story:
+As an educator, I want the user to know which tool they are using so they learn about the tools themselves.
+
+Acceptance Criteria:
+The user interface indicates both functionality and actual tool names.
+
+Essential Components:
+-Stakeholder Type is Identified
+  +
+-Outcome is Described
+  +
+-Rational is Explicit
+  +
+  
+Story:
+
+Acceptance Criteria:
