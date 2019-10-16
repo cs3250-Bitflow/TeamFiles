@@ -1,0 +1,21 @@
+# User Story
+### Essential components
+- [ ] Stakeholder type is identified
+- [ ] Outcome is described
+- [ ] Rationale is explicit
+- [ ] Acceptance criteria are verifiable and from the perspective of the stakeholder
+
+## Story
+As a developer
+I want an evaluation of Apache Maven
+so that a build environment can be established per User Story #2
+
+## Acceptance Criteria
+
+* An evaluation of relevant characteristics of Maven exists in the repository
+* The comparison articulates attributes and behaviors in the specific context of this project
+* The evaluation cites authoritative references
+
+## Issues Dependent on This User Story
+
+User Story #2
