@@ -1,0 +1,18 @@
+User Story: 
+As a user, I want a friendly interface so that I can easily user this product.
+
+Acceptance Criteria:
+
+Story:
++Essential Components:
+  -Stakeholder Type is Identified
+    +As a user
+  -Outcome is Described
+    +I want a friendly interface
+  -Rational is Explicit
+    +so that I can easily use this product.
+    
+    
+Acceptance Criteria:
+-Working user interface exists that is available to users.
+-User interface is user-friendly.
