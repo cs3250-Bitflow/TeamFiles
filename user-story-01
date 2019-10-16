@@ -4,14 +4,15 @@ As an educator, I want the user to know which tool they are using so they learn 
 Acceptance Criteria:
 The user interface indicates both functionality and actual tool names.
 
-Essential Components:
--Stakeholder Type is Identified
-  +
--Outcome is Described
-  +
--Rational is Explicit
-  +
-  
 Story:
++Essential Components:
+  -Stakeholder Type is Identified
+    +As an educator
+  -Outcome is Described
+    +I want the user to know which tool they are using
+  -Rational is Explicit
+    +so they learn about the tools themselves.
+
 
 Acceptance Criteria:
+-In the UI exists a list of tool functionality descriptions along with their actual names
