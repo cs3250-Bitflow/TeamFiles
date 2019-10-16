@@ -1,0 +1,18 @@
+  
+User Story: 
+As a user, I want an interface so that I can use this product.
+
+Acceptance Criteria:
+
+Story:
++Essential Components:
+  -Stakeholder Type is Identified
+    +As a user
+  -Outcome is Described
+    +I want an interface
+  -Rational is Explicit
+    +so that I can use this product.
+    
+    
+Acceptance Criteria:
+-Working user interface exists that is available to users.
